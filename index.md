@@ -29,12 +29,14 @@ Global Health, Tuberculosis, Nutrition, Clinical trials.
 ## Occupation
 
 `April 2020 - now`
-__Data manager (Consultant)__, London School of Hygiene and Tropical Medicine - Remote
+__Data manager (Consultant)__  
+London School of Hygiene and Tropical Medicine - Remote
 
 - Consultant Data manager on the DRC-EB-001 Ebola vaccine trial.
 
 `February 2017 - Now`
-__Research assistant/Data manager__, Nagasaki University, School of Tropical Medicine and Global Health - Nagasaki (Japan)
+__Research assistant/Data manager__  
+Nagasaki University, School of Tropical Medicine and Global Health - Nagasaki (Japan)
 
 
 ## Education
