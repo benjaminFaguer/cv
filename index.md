@@ -13,7 +13,7 @@ Data Manager, Research assistant.
 
 ## Currently
 
-Data manager at :
+**Data manager at :**
 * Nagasaki University, School of Tropical Medicine and Global Health
 * London School of Hygiene and Tropical Medicine, Consultant
 
