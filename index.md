@@ -1,33 +1,45 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Benjamin Faguer's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Benjamin Faguer
+Data Manager, Research assistant.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="benjamin.faguer@tutanota.com">benjamin.faguer@tutanota.com</a>
+| <a href="http://benjaminfaguer.github.io/cv">My online CV</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Data manager at :
+* Nagasaki University, School of Tropical Medicine and Global Health
+* London School of Hygiene and Tropical Medicine, Consultant
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Electronic data collection using Open Data Kit and REDCap.  
+Data Management in Stata and R.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Global Health, Tuberculosis, Nutrition, Clinical trials.
+
+## Occupation
+
+`April 2020 - now`
+__London School of Hygiene and Tropical Medicine__, Remote
+
+- Consultant Data manager on the DRC-EB-001 Ebola vaccine trial.
+
+`February 2017 - Now`
+__Lucasian professor of Mathematics__, Cambridge University
 
 
 ## Education
 
-`1654-1660`
+`2013-2014`
 __The King's School, Grantham.__
 
 `June 1661 - now`
@@ -71,16 +83,6 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
