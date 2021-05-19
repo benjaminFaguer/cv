@@ -38,31 +38,13 @@ _London School of Hygiene and Tropical Medicine - Remote_
 __Research assistant/Data manager__  
 _Nagasaki University, School of Tropical Medicine and Global Health - Nagasaki (Japan)_
 
+* Design of data collection tools using Open Data Kit and REDCap.
+* Facilitator in the Statistics and Statistical computing classes for Master students.
 
 ## Education
 
 `2013-2014`
 __MA History major, Cultural Heritage Valorisation and Local Development - First Class Honours__, Université du Maine - Le Mans (France)
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
 
 
 ## Publications
@@ -71,25 +53,12 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-
+`2020 December`
+White, L.V., Edwards, T., Lee, N. et al. Patterns and predictors of co-morbidities in Tuberculosis: A cross-sectional study in the Philippines. Sci Rep **10**, 4100 (2020). https://doi.org/10.1038/s41598-020-60942-2
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
 
 
