@@ -6,7 +6,7 @@ title: Benjamin Faguer's CV
 Data Manager, Research assistant.
 
 <div id="webaddress">
-<a href="benjamin.faguer@tutanota.com">benjamin.faguer@tutanota.com</a>
+<a href="mailto:benjamin.faguer@tutanota.com">benjamin.faguer@tutanota.com</a>
 | <a href="http://benjaminfaguer.github.io/cv">My online CV</a>
 </div>
 
