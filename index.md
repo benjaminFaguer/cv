@@ -6,6 +6,7 @@ title: Benjamin Faguer's CV
 <head>
 <script src="https://kit.fontawesome.com/b8bf574a75.js" crossorigin="anonymous"></script>
 </head>
+
 # Benjamin Faguer
 Data Manager
 
