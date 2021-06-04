@@ -38,13 +38,16 @@ __Data manager (Consultant)__
 _London School of Hygiene and Tropical Medicine - Remote_
 
 - Consultant Data manager on the DRC-EB-001 Ebola vaccine trial.
+- Working on the query management system in Stata.
+- Producing analysis tables in Stata.
 
 `02/2017 - Now`
 __Research assistant/Data manager__  
 _Nagasaki University, School of Tropical Medicine and Global Health - Nagasaki (Japan)_
 
-* Design of data collection tools using Open Data Kit and REDCap.
-* Facilitator in the Statistics and Statistical computing classes for Master students.
+- Design of data collection tools using Open Data Kit and REDCap.
+- Facilitator in the Statistics and Statistical computing classes for Master students.
+- Helping Master and PhD students set up their electronic data collection projects on the field (Ghana, Burundi…)
 
 ## Education
 
@@ -64,6 +67,6 @@ White, L.V., Edwards, T., Lee, N. et al. Patterns and predictors of co-morbiditi
 
 <!-- ### Footer
 
-Last updated: May 2021 -->
+Last updated: June 2021 -->
 
 
