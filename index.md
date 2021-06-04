@@ -28,6 +28,10 @@ Data Manager
 Electronic data collection using Open Data Kit and REDCap.  
 Data Management in Stata and R.
 
+#### Software
+Stata, R, Python, ODK, REDCap, QGIS
+Linux, MacOS
+
 ### Research interests
 
 Global Health, Tuberculosis, Nutrition, Clinical trials.
@@ -46,10 +50,12 @@ _London School of Hygiene and Tropical Medicine - Remote_
 __Research assistant/Data manager__  
 _Nagasaki University, School of Tropical Medicine and Global Health - Nagasaki (Japan)_
 
-- Design of data collection tools using Open Data Kit and REDCap.
 - Lead Data Manager on the St-ATT project in the Philippines.
+- Design of data collection tools using Open Data Kit and REDCap.
+- Making maps and figures for publications.
 - Facilitator in the Statistics and Statistical computing classes for Master students.
-- Helping Master and PhD students set up their electronic data collection projects on the field (Ghana, Burundi…)
+- Tutoring Master and PhD students in setting up their electronic data collection projects on the field (Ghana, Burundi…).
+- Tutoring Master and PhD students in using GIS for their research projects.
 
 ## Education
 
@@ -62,6 +68,8 @@ __MA History major, Cultural Heritage Valorisation and Local Development - First
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
+
+#### Co-author
 
 `2020 December`
 White, L.V., Edwards, T., Lee, N. et al. Patterns and predictors of co-morbidities in Tuberculosis: A cross-sectional study in the Philippines. Sci Rep **10**, 4100 (2020). https://doi.org/10.1038/s41598-020-60942-2
