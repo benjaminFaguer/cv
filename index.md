@@ -34,7 +34,7 @@ Global Health, Tuberculosis, Nutrition, Clinical trials.
 
 ## Occupation
 
-`04/2020 - now`
+`April 2020 - now`
 __Data manager (Consultant)__  
 _London School of Hygiene and Tropical Medicine - Remote_
 
@@ -42,7 +42,7 @@ _London School of Hygiene and Tropical Medicine - Remote_
 - Working on the query management system in Stata.
 - Producing analysis tables in Stata.
 
-`02/2017 - Now`
+`February 2017 - Now`
 __Research assistant/Data manager__  
 _Nagasaki University, School of Tropical Medicine and Global Health - Nagasaki (Japan)_
 
