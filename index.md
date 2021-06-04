@@ -38,7 +38,7 @@ Global Health, Tuberculosis, Nutrition, Clinical trials.
 __Data manager (Consultant)__  
 _London School of Hygiene and Tropical Medicine - Remote_
 
-- Consultant Data manager on the DRC-EB-001 Ebola vaccine trial.
+- Consultant Data manager on the DRC-EB-001 Ebola vaccine trial taking place in the Democratic Republic of the Congo.
 - Working on the query management system in Stata.
 - Producing analysis tables in Stata.
 
@@ -47,6 +47,7 @@ __Research assistant/Data manager__
 _Nagasaki University, School of Tropical Medicine and Global Health - Nagasaki (Japan)_
 
 - Design of data collection tools using Open Data Kit and REDCap.
+- Lead Data Manager on the St-ATT project in the Philippines.
 - Facilitator in the Statistics and Statistical computing classes for Master students.
 - Helping Master and PhD students set up their electronic data collection projects on the field (Ghana, Burundi…)
 
