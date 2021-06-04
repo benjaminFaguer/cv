@@ -41,8 +41,8 @@ _Nagasaki University, School of Tropical Medicine and Global Health - Nagasaki (
 
 - Lead Data Manager on the St-ATT project in the Philippines.
 - Design of data collection tools using Open Data Kit and REDCap.
-- Making maps and figures for publications.
-
+- Making maps and figures for publications.  
+  
 - Teaching the _Introduction to Stata_ to Master students.
 - Facilitator in the Statistics and Statistical computing classes for Master students.
 - Tutoring Master and PhD students in setting up their electronic data collection projects on the field (Ghana, Burundi…).
