@@ -3,11 +3,12 @@ layout: cv
 title: Benjamin Faguer's CV
 ---
 # Benjamin Faguer
-Data Manager, Research assistant.
+Data Manager
 
 <div id="webaddress">
 <a href="mailto:benjamin.faguer@tutanota.com">benjamin.faguer@tutanota.com</a>
 | <a href="http://benjaminfaguer.github.io/cv">My online CV</a>
+  | <a href="https://www.linkedin.com/in/benjamin-faguer-92b59282/">LinkedIn</a>
 </div>
 
 
