@@ -4,8 +4,7 @@ title: Benjamin Faguer's CV
 ---
 
 <head>
-  
-  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://kit.fontawesome.com/b8bf574a75.js" crossorigin="anonymous"></script>
 </head>
 # Benjamin Faguer
 Data Manager
@@ -13,7 +12,7 @@ Data Manager
 <div id="webaddress">
 <a href="mailto:benjamin.faguer@tutanota.com">benjamin.faguer@tutanota.com</a>
 | <a href="http://benjaminfaguer.github.io/cv">My online CV</a>
-  | <a href="https://www.linkedin.com/in/benjamin-faguer-92b59282/"><i class="fa fa-linkedin"></i></a>
+  | <a href="https://www.linkedin.com/in/benjamin-faguer-92b59282/"><i class="fab fa-linkedin"></i></a>
   | <a href="https://github.com/benjaminFaguer"><i class="fab fa-github"></i></a>
 </div>
 
