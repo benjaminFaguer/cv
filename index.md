@@ -13,7 +13,8 @@ Data Manager
 <div id="webaddress">
 <a href="mailto:benjamin.faguer@tutanota.com">benjamin.faguer@tutanota.com</a>
 | <a href="http://benjaminfaguer.github.io/cv">My online CV</a>
-  | <a href="https://www.linkedin.com/in/benjamin-faguer-92b59282/"><i class="fa fa-camera-retro fa-2x"></i></a>
+  | <a href="https://www.linkedin.com/in/benjamin-faguer-92b59282/"><i class="fa fa-linkedin"></i></a>
+  | <a href="https://github.com/benjaminFaguer"><i class="fab fa-github"></i></a>
 </div>
 
 
