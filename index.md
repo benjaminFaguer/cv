@@ -2,6 +2,11 @@
 layout: cv
 title: Benjamin Faguer's CV
 ---
+
+<head>
+  
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+</head>
 # Benjamin Faguer
 Data Manager
 
