@@ -29,14 +29,19 @@ Electronic data collection using Open Data Kit and REDCap.
 Data Management in Stata and R.
 
 ### Software
-Stata, R, Python, ODK, REDCap, QGIS  
-Linux, MacOS
+- Stata: Data management, producing figures
+- R: Data management, producing figures and maps
+- Python: File management
+- ODK: Designing data collection tools, using encryption
+- REDCap: Designing data collection tools, using the API through R, Stata and the system shell
+- QGIS: Spatial analysis and making maps for publications
+- Linux, MacOS: Daily use and system scripting (bash/zsh)
 
 ### Research interests
 
 Global Health, Tuberculosis, Nutrition, Clinical trials.
 
-## Occupation
+## Work Experience
 
 `April 2020 - now`
 __Data manager (Consultant)__  
