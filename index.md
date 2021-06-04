@@ -16,32 +16,16 @@ Data Manager
 | <a href="https://github.com/benjaminFaguer"><i class="fab fa-github"></i></a>
 </div>
 
-
-## Currently
-
-**Data manager at :**
-* Nagasaki University, School of Tropical Medicine and Global Health
-* London School of Hygiene and Tropical Medicine, Consultant
-
 ### Specialized in
 
 Electronic data collection using Open Data Kit and REDCap.  
 Data Management in Stata and R.
 
-### Software
-- Stata: Data management, producing figures
-- R: Data management, producing figures and maps
-- Python: File management
-- ODK: Designing data collection tools, using encryption
-- REDCap: Designing data collection tools, using the API through R, Stata and the system shell
-- QGIS: Spatial analysis and making maps for publications
-- Linux, MacOS: Daily use and system scripting (bash/zsh)
-
 ### Research interests
 
 Global Health, Tuberculosis, Nutrition, Clinical trials.
 
-## Work Experience
+## Professional Experience
 
 `April 2020 - now`
 __Data manager (Consultant)__  
@@ -61,6 +45,15 @@ _Nagasaki University, School of Tropical Medicine and Global Health - Nagasaki (
 - Facilitator in the Statistics and Statistical computing classes for Master students.
 - Tutoring Master and PhD students in setting up their electronic data collection projects on the field (Ghana, Burundi…).
 - Tutoring Master and PhD students in using GIS for their research projects.
+
+### Software
+- Stata: Data management, producing figures
+- R: Data management, producing figures and maps
+- Python: File management
+- ODK: Designing data collection tools, using encryption
+- REDCap: Designing data collection tools, using the API through R, Stata and the system shell
+- QGIS: Spatial analysis and making maps for publications
+- Linux, MacOS: Daily use and system scripting (bash/zsh)
 
 ## Education
 
